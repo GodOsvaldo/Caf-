@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio - Nicolas</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <header class="bg-dark text-white text-center py-4">
+    <h1>Olá! Eu sou Nicolas</h1>
+    <p>Engenheiro de Software especializado em soluções escaláveis</p>
+  </header>
+
+  <section class="container my-5">
+    <h2 class="text-center mb-4">Sobre Mim</h2>
+    <p class="text-center">Sou um engenheiro de software com experiência no desenvolvimento de sistemas escaláveis e de alta performance. Tenho paixão por resolver problemas complexos com soluções tecnológicas inovadoras e eficientes.</p>
+  </section>
+
+  <section class="container my-5">
+    <h2 class="text-center mb-4">Projetos</h2>
+    <div class="row text-center">
+      <div class="col-md-4 mb-4">
+        <div class="p-3 border rounded">
+          <h5>Plataforma de E-commerce</h5>
+          <p>Desenvolvimento de uma plataforma de e-commerce com integração de pagamentos e gestão de estoque.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div class="p-3 border rounded">
+          <h5>Sistema de Gestão de Dados</h5>
+          <p>Construção de um sistema para gerenciar grandes volumes de dados e otimizar processos empresariais.</p>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div class="p-3 border rounded">
+          <h5>Aplicativo Móvel</h5>
+          <p>Desenvolvimento de um aplicativo móvel focado em otimização de tempo e produtividade.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-light py-5">
+    <div class="container text-center">
+      <h2>Contato</h2>
+      <p>Email: nicolas.software@email.com</p>
+      <p>Instagram: @nicolas_software</p>
+    </div>
+  </section>
+
+</body>
+</html>
